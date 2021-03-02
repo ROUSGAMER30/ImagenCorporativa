@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+#banner1_546080560 {
+	background-color: #ffffff;
+	border: 0;
+	box-sizing: border-box;
+	cursor: pointer;
+	display: block;
+	height: 2238px;
+	overflow: hidden;
+	position: relative;
+	width: 3231px;
+	z-index: 1;
+}
